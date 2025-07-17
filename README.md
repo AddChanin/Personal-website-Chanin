@@ -1,6 +1,9 @@
 # Chanin's personal website
 My personal website.
+https://chaninweb.pages.dev/
 
+
+* Credit *
 Thank you Beyond Fireship for this video. I appreciate his video to helped me learn and visualize how to create simple CSS animations.
 Credit: https://www.youtube.com/watch?v=T33NN_pPeNI&list=PL66_XaT4jp5bFjKSdJQ-8YxGu9HJyzUNm&index=7
 
